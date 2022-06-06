@@ -1,1 +1,3 @@
-
+<h1>About One Future Unified Team Studio</h1>
+<p>One Future Unified Team Studio is owned and fully maintained by One Future Unified Team. One Future Unified Team Studio is a subsidiaries of One Future Unified Team. One Future Unified Team Studio provided many services to our customers and clients. One Future Unified Team Studio offered lower price then any other production companies too.</p>
+<p>One Future Unified Team is a small indie team founded, based and headquartered in Malaysia. One Future Unified Team Studio was founded by a group of young teenagers interested in the future of technology. One Future Unified Team is focus in many things, from web development to story writing.</p>
