@@ -1,1 +1,3 @@
-
+<h1>About Us</h1>
+<p>One Future Unified Team Website Development is fully owned and maintained by One Future Unified Team. One Future Unified Team Development Team is a subsidiaries of One Future Unified Team. One Future Unified Team help to develop and create webeistes for our customers and clients. One Future Unified Team also help to maintain our customers and clients website too!</p>
+<p>One Future Unified Team is a small indie team founded, based and headquartered in Malaysia. One Future Unified Team was founded by a group of young teenagers interested in the future of technology. One Future Unified Team is focus in many things, from web development to story writing.</p>
