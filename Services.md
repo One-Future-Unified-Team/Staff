@@ -3,9 +3,8 @@
 
 <h2>Website Development</h2>
 <ul style="text-align:left;">
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Website Creation<br>One Future Unified Team help our customers and clients to create their own individual website for a fraction of price from other companies and competitors of ours. We help to built an entire website for scratch to our customers and clients.</li>
+  <li>Wesbtie Maintainences<br>One Future Unified Team also provide website maintainences services to our customers and clients. We help to maintained websites by our customers and clients for ac franction of the price from other companies. We offer unlimited edit in our maintanece plan too. </li>
 </ul>
 
 <h2>Studio</h2>
