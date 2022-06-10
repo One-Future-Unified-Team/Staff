@@ -1,0 +1,2 @@
+<h1>COO (Chief Operation Officer)</h1>
+<p>One Future Unified Team COO (Chief Operation Officer) is the second highest ranking in the entire One Future Unified Team. A Chief Operating Officer (COO) is a dual role that combines the functions of chief executive and manager. They design, implement policies to promote company culture and vision and oversee operations to keep businesses on track.<br><br>One Future Unified Team COO manages the entirety of the team, from overseeing the team operation, implementing policies to promote company culture and vision.</p>
